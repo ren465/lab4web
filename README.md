@@ -41,6 +41,7 @@
   background: green;
 }
 </style>
+***
 
 ![1](https://user-images.githubusercontent.com/81818422/115855536-8bd37a80-a455-11eb-922d-d78131a35f64.png)
 
@@ -60,8 +61,12 @@ Kemudian atur property clear pada CSS, seperti berikut.
   clear: left;
   float: none;
 }
+****
+
 ![2](https://user-images.githubusercontent.com/81818422/115855987-13b98480-a456-11eb-81b6-1995ee79f8bb.png)
+
 # Membuat Layout Sederhana
+
 ***
 <!DOCTYPE html>
   <html lang="en">
@@ -77,6 +82,9 @@ Kemudian atur property clear pada CSS, seperti berikut.
     </div>
 </body>
 </html>
+
+***
+
 ![3](https://user-images.githubusercontent.com/81818422/115857082-75c6b980-a457-11eb-9eed-bf38530a4bc0.png)
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya
@@ -117,7 +125,11 @@ color: #b5b5b5;
 * navigasi */ nav { display: block; background-color: #1f5faa; } nav a { padding: 15px 30px; display: inline-block; color: #ffffff; font-size: 14px; text-decoration: none; font-weight: bold; } nav a.active, nav a:hover { background-color: #2b83ea; }
 
 # Hello Word
+
+***
+
 ![4](https://user-images.githubusercontent.com/81818422/115857846-6ac05900-a458-11eb-8c72-8edb6f10b785.png)
+
 # Mengatur Layout Main dan Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 ***
@@ -187,7 +199,9 @@ background-color:#eee;
 padding:15px;
 line-height:25px;
 }
+***
 ![5](https://user-images.githubusercontent.com/81818422/115858353-081b8d00-a459-11eb-8931-6b0652d56d65.png)
+
 # Mengatur Footer
 * Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 * /* footer */
@@ -197,7 +211,10 @@ background-color:#1d1d1d;
 padding:20px;
 color:#eee;
 }
+***
+
 ![6](https://user-images.githubusercontent.com/81818422/115858576-5466cd00-a459-11eb-87a8-8816e01a90ef.png)
+
 
 # Menambahkan Elemen lainnya pada Main Content
 <section id="main">
@@ -271,7 +288,9 @@ display:table;
 .entry:after {
 clear:both;
 }
+***
 ![7](https://user-images.githubusercontent.com/81818422/115858937-bd4e4500-a459-11eb-91de-9101c5473387.png)
+
 # Menambahkan Content Artikel
 <hr class="divider" />
 <article class="entry">
@@ -317,7 +336,9 @@ margin-right: 15px;
 .entry .right-img {
 float: right;
 }
+***
 ![8](https://user-images.githubusercontent.com/81818422/115859246-19b16480-a45a-11eb-809e-583ac82096af.png)
+
 # Pertanyaan dan Tugas
 * 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
