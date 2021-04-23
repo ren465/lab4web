@@ -199,7 +199,9 @@ background-color:#eee;
 padding:15px;
 line-height:25px;
 }
+
 ***
+
 ![5](https://user-images.githubusercontent.com/81818422/115858353-081b8d00-a459-11eb-8931-6b0652d56d65.png)
 
 # Mengatur Footer
@@ -211,8 +213,8 @@ background-color:#1d1d1d;
 padding:20px;
 color:#eee;
 }
-***
 
+***
 ![6](https://user-images.githubusercontent.com/81818422/115858576-5466cd00-a459-11eb-87a8-8816e01a90ef.png)
 
 
